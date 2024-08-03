@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi I'm Emanuel 👋
+
+* 🔭 I’m currently working on **making a personal portfolio website**  
+* 🌱 I’m currently learning **how to use the Next.js framework**
+
+## ✨ About Me
+I'm a student at the informatics schools in Bern and I make games and small applications in my free time
 
 <!--
 **debugDodo/debugDodo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
