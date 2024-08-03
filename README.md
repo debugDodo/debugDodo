@@ -1,4 +1,4 @@
-# Hi I'm Emanuel 👋
+# Hi I'm Emanuel 👋🦤
 
 * 🔭 I’m currently working on **making a personal portfolio website**  
 * 🌱 I’m currently learning **how to use the Next.js framework**
