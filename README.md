@@ -7,7 +7,7 @@
 I'm a student at the informatics schools in Bern and I make games and small applications in my free time
 
 ---
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=debugDodo&theme=neon-palenight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=debugDodo&theme=monokai-metallian)](https://git.io/streak-stats)
 
 <!--
 **debugDodo/debugDodo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
