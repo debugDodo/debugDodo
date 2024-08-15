@@ -2,9 +2,10 @@
 
 * 🔭 I’m currently working on **making a personal portfolio website**  
 * 🌱 I’m currently learning **how to use the Next.js framework**
+* 📫 How to reach me: emanuel.galan.ruiz@protonmail.com
 
 ## ✨ About Me
-I'm a student at the informatics schools in Bern and I make games and small applications in my free time
+I'm a student at the computer science school in Bern and I make games and small applications in my free time
 
 ---
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=debugDodo&theme=monokai-metallian)](https://git.io/streak-stats)
