@@ -1,7 +1,7 @@
 # Hi I'm Emanuel 👋🦤
 
-* 🔭 I’m currently working on **making a personal portfolio website**  
-* 🌱 I’m currently learning **how to use the Next.js framework**
+* 🔭 I’m currently working on **a small little mobile game**  
+* 🌱 I’m currently learning **how to program in Unity C#**
 * 📫 How to reach me: emanuel.galan.ruiz@protonmail.com
 
 ## ✨ About Me
