@@ -14,6 +14,7 @@ But now that I have finally decided on a username I'll be uploading my future pr
 ---
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=debugDodo&theme=monokai-metallian"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&bg_color=1f222e&border-color=ffffff&text_color=f85d7f&title_color=f85d7f"/></p>
 
 <!--
 **debugDodo/debugDodo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
